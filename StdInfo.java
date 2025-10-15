@@ -27,7 +27,8 @@ public class StdInfo
 
     public static void main(String args[])
 {
-    Student std=new Student("Pranav", "1RUA24SCS0077", "B",3);
+    Student std=new Student("ragul", "1RUA24SCS0087", "B",3);
     std.display();
 }
+
 }
